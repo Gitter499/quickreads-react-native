@@ -1,0 +1,12 @@
+{
+  "name": "quickreads-react-native",
+  "displayName": "quickreads-react-native",
+  "expo": {
+    "name": "quickreads-react-native",
+    "slug": "quickreads-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
